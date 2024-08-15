@@ -1,0 +1,58 @@
+body {
+    padding-bottom: 500px;
+}
+
+h2 {
+    font-size: 22px;
+    color: blue;
+}
+
+h3 {
+    color: darkred;
+}
+
+.newtitulo {
+    color: orange;
+
+}
+
+#ultimo-titulo {
+    color: black;
+}
+
+#minha-div {
+    background-image: url(../assents/ceuestrelado.jpg);
+    padding: 30px;
+}
+
+#altura-largura {
+    width: 200px;
+    background-color: beige;
+}
+
+#div-espacamento{
+    background-color: aquamarine;
+    padding: 10px 20px 10px 20px;
+}
+
+#div-margem{
+    background-color: aquamarine;
+    padding: 10px 20px 10px 20px;
+}
+#div-bordo{
+    background-color: aquamarine;
+    width: 200px;
+    height: 200px;
+    border: 3px solid black;
+}
+
+#div-arrendondamento-bordo{
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    margin-top: 10px;
+    border: 3px solid red;
+    border-radius: 20px;
+}
+
+
